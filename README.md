@@ -143,6 +143,28 @@ The analysis can be used to identify:
 
 ---
 
+## 📁 Project Structure
+
+```text
+ESG-Analysis-Project/
+│
+├── Python/
+│   └── ESG_Data_Cleaning.py
+│
+├── SQL/
+│   └── ESG_Analysis.sql
+│
+├── Data/
+│   └── ESG_Dataset.csv
+│
+├── PowerBI/
+│   └── ESG_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── ESG_Dashboard.png
+│   ├── ESG_Analysis.png
+│
+└── README.md
 ```
 
 ---
